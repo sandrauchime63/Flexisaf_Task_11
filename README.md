@@ -1,6 +1,8 @@
-# Flexisaf_Task_10
+# Flexisaf_Task_11
 
-Chain that summarizes + analyzes document(s); include workflow diagram
+
+AI agent that reads PDF/text and extracts structured insights — provide sample docs
+ 
  
 
 ## How To Run
@@ -13,4 +15,4 @@ Chain that summarizes + analyzes document(s); include workflow diagram
 - Use Jupyter Notebook
 
 ## Example Usage
-Enter your request: Summarize the document data/move_like_water.pdf
+Enter your request: Summarize the document data/Occassion.pdf
